@@ -1,1 +1,17 @@
 ****====>>>>>>___To-do Manager App____<<<<======*****
+
+- use local development and start it on local machine which port is 3333
+
+- Update CLI- sfdx update
+
+-intall Dev hub-
+	sfdx plugins:install @salesforce/lwc-dev-server
+
+- in VS Code - Create default Scratch org
+
+- Now use inbuild VS code terminal for further commands-
+ sfdx force:lightning:lwc:start      // this is an command for start local development at server
+ 
+ i.e http://localhost:3333
+ 
+ -Create LWC (toDoManager)
